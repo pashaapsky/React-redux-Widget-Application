@@ -1,0 +1,23 @@
+html, body{
+    background-color: #d1d4d6;
+}
+
+.fixed-container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.header{
+    margin: 15px 0;
+
+    text-align: center;
+
+    color: #448ccb;
+}
+
+.container{
+    padding: 20px 20px;
+
+    background-color: #fff;
+}
+
